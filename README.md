@@ -2,8 +2,9 @@ A real-time hand gesture-based volume control system built with Python, OpenCV, 
 
 Using computer vision and hand landmark detection, the application tracks the user's hand, calculates the distance between the thumb and index finger, and smoothly adjusts the system volume based on the detected gesture. The interface also displays hand landmarks, gesture information, and a real-time volume level for an intuitive user experience.
 
-.🚀 Features
-.🎥 Real-time hand tracking using MediaPipe
+
+🚀 Features
+🎥 Real-time hand tracking using MediaPipe
 .✋ Touchless system volume control
 .📏 Volume adjustment based on thumb–index finger distance
 .📊 Live volume percentage and visual feedback
