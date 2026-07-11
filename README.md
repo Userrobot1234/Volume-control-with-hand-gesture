@@ -10,7 +10,7 @@ Using computer vision and hand landmark detection, the application tracks the us
 .⚡ Smooth and responsive gesture recognition
 .🖥️ Works with a standard webcam
 .🎯 Lightweight and easy to run
-🛠️ Technologies Used
+🛠️ Technologies Used 
 .Python
 .OpenCV
 .MediaPipe
